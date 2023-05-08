@@ -1,0 +1,45 @@
+Roles of users
+--------------
+- Producer (Red)
+
+A-  Project Setup / Create Project (Duplicate role with director)
+B-  Send Invites (Duplicate role with director)
+C-  Approve Schedule
+D-  Approve Change in Shoot Schedule (On Day of the Shoot)
+E-  Close Project
+
+- Director (Purple)
+
+A-  Project Setup / Create Project (Duplicate role with Producer)
+B-  Send Invites (Duplicate role with Producer)
+C-  Add Storyboard (Duplicate role with AD)
+D-  Add Notes - Under Director Heading
+E-  Add Shoot Schedule
+F-  OK Take (On Day of the Shoot)
+G-  Shoot Schedule Change Request (On Day of the Shoot)
+H-  Request Close of project to Producer
+
+- Assistant Producer / AP (Light Green)
+
+A-  AP Notes - Under AP Heading
+
+- Assistant Director / AD (Green)
+
+A-  Add Storyboard (Duplicate role with Director)
+B-  AD Notes - Under AD Heading
+
+- Cameraman / Director of Photography / DOP (Orange)
+
+A-  Camera Notes - Under Camera/DOP Heading
+
+-  Head of Set / Art Department (No Color Assigned Yet)
+
+A-  Head of Set / Art Notes - Under Set/Art Heading
+
+- Light Department (No Color Assigned Yet)
+
+A-  Head of Light Notes - Under Light Heading
+
+
+
+***  Notes will also include Images and Pictures
